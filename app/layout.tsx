@@ -1,3 +1,4 @@
+import "./globals.css";
 export const metadata = {
     title: "DetailPro | Mobile Auto Detailing",
     description: "Premium mobile auto detailing delivered directly to your driveway.",
